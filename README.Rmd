@@ -33,7 +33,9 @@ For users interested in applying Differential NicheNet to their own data, we rec
 * script 11: script used to define and visualize the human-KC-specific ligand-receptor pairs, based on the output of scripts 9 and 10 (including code to make Figure 6E).
 
 Notes: 
+
 * the exact data files you need to have in the data folder for running these scripts are available on this Zenodo page: https://zenodo.org/record/5840333. For exploration and downloading of other data from the paper, we refer to: [Liver Atlas Data Portal](https://www.livercellatlas.org/)
+
 * the code provided in this repository is tailored to work on our gridengine cluster (via the qsub package) and will need to be adapted to work on your system/server/cluster. 
 
 ## References
